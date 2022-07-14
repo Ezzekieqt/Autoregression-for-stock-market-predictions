@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us" dir="ltr">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="utf-8" />
+	<base href="https://longforecast.com/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" />
+	<meta name="keywords" content="bitcoin price prediction, bitcoin forecast, btc to usd predictions, bitcoin prediction, bitcoin price, btc forecast" />
+	<meta name="description" content="Bitcoin price prediction 2021, 2022, 2023 and 2024. DON'T BUY OR SELL BITCOIN UNTIL YOU READ THAT. Bitcoin price predictions and forecast for every month. BTC forecast. Current Bitcoin price in dollars. Bitcoin trend outlook. BTC-USD converter. " />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Bitcoin Price Prediction 2021, 2022, 2023, 2024 - Long Forecast</title>
+	<link href="/templates/apecon16/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://longforecast.com/component/search/?Itemid=166&amp;format=opensearch" rel="search" title="Search Long Forecast" type="application/opensearchdescription+xml" />
+	<link href="/templates/apecon16/css/template.css" rel="stylesheet" />
+	<script src="/media/jui/js/jquery.min.js?06262923ca1fd962a5fa4de6a4ae51aa"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?06262923ca1fd962a5fa4de6a4ae51aa"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?06262923ca1fd962a5fa4de6a4ae51aa"></script>
+	<script src="/media/system/js/caption.js?06262923ca1fd962a5fa4de6a4ae51aa"></script>
+	<script src="/media/jui/js/bootstrap.min.js?06262923ca1fd962a5fa4de6a4ae51aa"></script>
+	<script src="/templates/apecon16/js/template.js"></script>
+	<!--[if lt IE 9]><script src="/media/system/js/html5fallback.js?06262923ca1fd962a5fa4de6a4ae51aa"></script><![endif]-->
+	<script>
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});
+	</script>
+
+					<style type="text/css">
+		body.site
+		{
+/*			border-top: 3px solid #ff9933;*/
+			background-color: #f4f6f7		}
+		a
+		{
+			color: #ff9933;
+		}
+		.nav-list > .active > a, .nav-list > .active > a:hover, .dropdown-menu li > a:hover, .dropdown-menu .active > a, .dropdown-menu .active > a:hover, .nav-pills > .active > a, .nav-pills > .active > a:hover,
+		.btn-primary
+		{
+			background: #ff9933;
+		}
+
+		.moduletable.gray, .moduletablegray, .moduletable-gray {
+			background: #ffffff; /* Old browsers */
+			background: -moz-linear-gradient(top,  #ffffff 0%, #dde1e4 50%); /* FF3.6-15 */
+			background: -webkit-linear-gradient(top,  #ffffff 0%,#dde1e4 50%); /* Chrome10-25,Safari5.1-6 */
+			background: linear-gradient(to bottom,  #ffffff 0%,#dde1e4 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#dde1e4',GradientType=0 ); /* IE6-9 */
+		}
+			</style>
+		<!--[if lt IE 9]>
+		<script src="/media/jui/js/html5.js"></script>
+	<![endif]-->
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#2b5797">
+<meta name="msapplication-TileColor" content="#2b5797">
+<meta name="theme-color" content="#ffffff">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-1081004-4"></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-1081004-4'); </script>   
+</head>
+
+<body class="site com_content view-article no-layout no-task itemid-166 fluid">
+	<!-- Body -->
+	<div class="body">
+		<div class="container-fluid">
+			<!-- Header -->
+			<header class="header" role="banner" id="nomenu">
+				<div class="header-inner clearfix">
+					<a class="brand pull-left" href="/">
+						<img src="https://longforecast.com/images/efa_logo.png" alt="Long Forecast" />											</a>
+					<div class="header-search pull-right">
+						
+					</div>
+				</div>
+			</header>
+									<div class="row-fluid">
+								<main id="content" role="main" class="span9">
+					<!-- Begin Content -->
+							<div class="moduletable">
+						
+
+<div class="custom"  >
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- LF_TopResp -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8790319027150706"
+     data-ad-slot="6908699871"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>
+	
+					<div id="system-message-container">
+	</div>
+
+					<div class="item-page" itemscope itemtype="https://schema.org/Article">
+	<meta itemprop="inLanguage" content="en-US" />
+		<div class="page-header">
+		<h1> Bitcoin Price Prediction 2021, 2022, 2023, 2024 </h1>
+	</div>
+	
+		
+						
+		
+	
+	
+		
+							<div class="pull-left item-image"> <img
+		 src="/images/coins/bitcoin-price-prediction.png" alt="Bitcoin Price Prediction" itemprop="image"/> </div>
+			<div itemprop="articleBody">
+		<p style="font-size: 12.16px; line-height: 15.808px;"><h2>2021/06/01. Bitcoin Price Today.</h2><div style="font-size:14px"><p>Bitcoin price equal to <strong>37052</strong> dollars a coin. Today's range: $35740 - $37910. The previous day close: $37291. The change was -239, -0.64%.</p><div style="float: left; width: 100%;"><div style="float: left; width: 340px"><table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/images/down.png" width="45" height="45" alt="DOWN"></td><td><div style="font-size:56px"><strong>37052</div></td><td><div style="font-size:26px; color:#FF9900">&nbsp;-0.64%</strong></div></td></tr></table><p></p>Recent changes:<table style="border-collapse: collapse; border: 1px solid #cccccc; text-align: center;" border="1" width="330" cellspacing="0" cellpadding="0"><tr><td style="border: 1px solid #cccccc;">Period</td><td style="border: 1px solid #cccccc;">2 Days</td><td style="border: 1px solid #cccccc;">3 Days</td><td style="border: 1px solid #cccccc;">1 Week</td><td style="border: 1px solid #cccccc;">2 Weeks</td><td style="border: 1px solid #cccccc;">1 Month</td><tr></strong><tr><td style="border: 1px solid #cccccc;">Chng,%</td><td style="border: 1px solid #cccccc;">+3.9%</td><td style="border: 1px solid #cccccc;">+7.1%</td><td style="border: 1px solid #cccccc;">-3.7%</td><td style="border: 1px solid #cccccc;">-1.2%</td><td style="border: 1px solid #cccccc;">-33.7%</td></tr><tr><td style="border: 1px solid #cccccc;">Price</td><td style="border: 1px solid #cccccc;">35667</td><td style="border: 1px solid #cccccc;">34609</td><td style="border: 1px solid #cccccc;">38494</td><td style="border: 1px solid #cccccc;">37492</td><td style="border: 1px solid #cccccc;">55865</td></tr></table><p></p></div><div style="float: left; width: 340px;"><p></p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:320px;height:100px" data-ad-client="ca-pub-8790319027150706" data-ad-slot="8420456279"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p><a href="https://longforecast.com/ethereum-price-prediction-2018-2019-2020-2021-eth-to-usd">Ethereum Price Prediction 2021, 2022-2024.</a></p></div><div style="float: left; width: 336px"><div style="font-size:18px"><p><strong>Bitcoin Converter</strong></p></div>  
+
+ 
+<form onsubmit="return false;"> 
+
+ 
+<style> select {font-size: 20px; width: 250px; height: 33px; } </style> 
+
+ 
+<select id="list"  onchange="changeText()"> 
+
+ 
+<option value="37051.83">Bitcoin To Dollar</option> 
+
+ 
+<option value="2.6989220235546E-5">Dollar To Bitcoin</option> 
+
+ 
+</select>  
+
+ 
+<p><style> #amount { width: 190px;} </style> 
+
+ 
+<input id="amount" value="5" style="font-size: 22px;" oninput="changeText()">  
+
+ 
+equal to</p> 
+
+ 
+<p><output id="res1" style="text-align: left; font-size: 24px; font-weight:bold; color: #00CC00;"></output></p>  
+
+ 
+</form> 
+
+ 
+<script type="text/javascript"> 
+
+ 
+function changeText(){ 
+
+ 
+var res1 = 0;  var rate = 1; var xrate; var sum; var i; var t=2;  
+
+ 
+var amount = document.getElementById('amount').value; 
+
+ 
+var list = document.getElementById('list').options[document.getElementById('list').selectedIndex].value; 
+
+ 
+sum = parseFloat(amount.toLocaleString()); 
+
+ 
+rate = parseFloat(list);  
+
+ 
+res1 = sum*rate;  
+
+ 
+if (isNaN(res1)||isNaN(amount.toLocaleString())||sum<=0||sum>99999999999) { document.getElementById('res1').innerHTML ="N/A"; return; } 
+
+ 
+if (rate>1) t=2; else t=4; if (rate<0.0001) t=8; document.getElementById('res1').innerHTML = res1.toFixed(t).replace(/(\d)(?=(\d{3})+\.)/g, '$1,');  
+
+ 
+} 
+
+ 
+changeText(); 
+
+ 
+</script> 
+
+ 
+</div><div style="float: left; width: 340px;"><p></p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:320px;height:100px" data-ad-client="ca-pub-8790319027150706" data-ad-slot="8420456279"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p><a href="http://30rates.com/btc-to-usd-forecast-today-dollar-to-bitcoin" target="_blank">Bitcoin Price Prediction For Tomorrow And Month.</a></p></div></div> <div style="clear: both"></div><h2>Bitcoin Price Prediction For 2021, 2022, 2023, 2024 And 2025</h2><div style="float: left; width: 100%;"><div style="float: left; width: 340px"><table style="text-align: center;" border="0" cellspacing="0" cellpadding="0" width="338"><tbody><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="height: 20px; width: 52px; border-color: #cccccc; border-style: solid; border-width: 1px">Month</td> 
+
+ 
+<td align="center" style="height: 20px; width: 47px; border-color: #cccccc; border-style: solid; border-width: 1px">Open</td> 
+
+ 
+<td align="center" style="height: 20px; width: 95px; border-color: #cccccc; border-style: solid; border-width: 1px">Min-Max</td> 
+
+ 
+<td align="center" style="height: 20px; width: 47px; border-color: #cccccc; border-style: solid; border-width: 1px">Close</td> 
+
+ 
+<td align="center" style="height: 20px; width: 49px; border-color: #cccccc; border-style: solid; border-width: 1px">Total,%</td></tr><tr><td class="tb" colspan="6" align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>2021</strong></td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jun</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">37293</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">22792-42998</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>24895</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-33.2%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jul</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">24895</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">19448-25938</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>20912</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-43.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Aug</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">20912</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">16336-20912</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>17566</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-52.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Sep</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">17566</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">16049-18465</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>17257</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-53.7%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Oct</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">17257</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">17257-21419</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>20018</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-46.3%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Nov</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">20018</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">20018-24846</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>23221</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-37.7%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Dec</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">23221</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">23221-27870</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>26047</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-30.2%</td></tr><tr><td colspan="6" align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>2022</strong></td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jan</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">26047</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">26047-32330</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>30215</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-19.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Feb</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">30215</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">30215-37502</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>35049</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-6.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Mar</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">35049</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">35049-43503</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>40657</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">9.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Apr</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">40657</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">34607-40657</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>37212</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-0.2%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>May</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">37212</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">36072-41502</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>38787</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">4.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jun</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">38787</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">38787-48143</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>44993</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">20.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jul</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">44993</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">40448-46538</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>43493</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">16.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Aug</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">43493</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">43493-50916</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>47585</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">27.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Sep</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">47585</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">47585-59063</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>55199</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">48.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Oct</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">55199</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">43121-55199</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>46367</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">24.3%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Nov</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">46367</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">39397-46367</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>42362</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">13.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Dec</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">42362</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">42362-52580</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>49140</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31.8%</td></tr><tr><td colspan="6" align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>2023</strong></td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jan</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">49140</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">43679-50255</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>46967</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">25.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Feb</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">46967</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">36690-46967</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>39452</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">5.8%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Mar</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">39452</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">39452-46502</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>43460</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">16.5%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Apr</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">43460</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">34917-43460</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>37545</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">0.7%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>May</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">37545</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">33314-38330</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>35822</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-3.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jun</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">35822</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31213-35911</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>33562</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-10.0%</td></tr></tbody></table></div><div style="float: left; width: 338px"><p></p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8790319027150706" data-ad-slot="4494800279"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p></p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8790319027150706" data-ad-slot="8785399077"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><div style="float: left; width: 340px"><table style="text-align: center;" border="0" cellspacing="0" cellpadding="0" width="338"><tbody><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="height: 20px; width: 52px; border-color: #cccccc; border-style: solid; border-width: 1px">Month</td> 
+
+ 
+<td align="center" style="height: 20px; width: 47px; border-color: #cccccc; border-style: solid; border-width: 1px">Open</td> 
+
+ 
+<td align="center" style="height: 20px; width: 95px; border-color: #cccccc; border-style: solid; border-width: 1px">Min-Max</td> 
+
+ 
+<td align="center" style="height: 20px; width: 47px; border-color: #cccccc; border-style: solid; border-width: 1px">Close</td> 
+
+ 
+<td align="center" style="height: 20px; width: 49px; border-color: #cccccc; border-style: solid; border-width: 1px">Total,%</td></tr><tr><td colspan="6" align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>2023 Continuation</strong></td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jul</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">33562</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">33562-41657</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>38932</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">4.4%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Aug</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">38932</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">38932-48322</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>45161</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">21.1%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Sep</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">45161</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">45138-51934</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>48536</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">30.1%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Oct</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">48536</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">48536-57888</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>54101</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">45.1%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Nov</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">54101</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">46047-54101</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>49513</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">32.8%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Dec</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">49513</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">43009-49513</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>46246</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">24.0%</td></tr><tr><td colspan="6" align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>2024</strong></td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jan</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">46246</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">36128-46246</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>38847</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">4.2%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Feb</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">38847</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">34595-39803</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>37199</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-0.3%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Mar</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">37199</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">32610-37518</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>35064</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-6.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Apr</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">35064</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">29623-35064</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>31853</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-14.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>May</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31853</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31853-39535</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>36949</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-0.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jun</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">36949</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">29249-36949</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>31451</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-15.7%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jul</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31451</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">24570-31451</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>26419</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-29.2%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Aug</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">26419</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">26419-32791</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>30646</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-17.8%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Sep</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">30646</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">23941-30646</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>25743</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-31.0%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Oct</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">25743</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">24413-28088</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>26250</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-29.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Nov</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">26250</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">20507-26250</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>22050</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-40.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Dec</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">22050</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">22050-27368</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>25578</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-31.4%</td></tr><tr><td colspan="6" align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>2025</strong></td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jan</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">25578</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">25578-31747</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>29670</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-20.4%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Feb</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">29670</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">29670-36826</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>34417</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-7.7%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Mar</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">34417</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">29625-34417</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>31855</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-14.6%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Apr</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31855</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">31855-39539</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>36952</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">-0.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>May</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">36952</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">36952-45864</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>42864</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">14.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jun</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">42864</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">42864-50654</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>47340</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">26.9%</td></tr><tr height="20" style="height: 15pt"> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>Jul</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">47340</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">47340-58758</td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px"><strong>54914</strong></td> 
+
+ 
+<td align="center" style="border-color: #cccccc; border-style: solid; border-width: 1px">47.3%</td></tr></tbody></table><p> </p><p> </p></div><div style="float: left; width: 336px"><p></p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8790319027150706" data-ad-slot="3740509071"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p></p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-8790319027150706" data-ad-slot="8170708671"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></div> <div style="clear: both"></div><p> Bitcoin price prediction  for <strong>June 2021</strong>.<br />In the beginning price at 37293 Dollars. Maximum price $42998, minimum price $22792. The average for the month $31995. Bitcoin price forecast at the end of the month $24895, change for June -33.2%.</p><p> BTC to USD predictions  for <strong>July 2021</strong>.<br />In the beginning price at 24895 Dollars. Maximum price $25938, minimum price $19448. The average for the month $22798. Bitcoin price forecast at the end of the month $20912, change for July -16.0%.</p><p> Bitcoin price prediction  for <strong>August 2021</strong>.<br />In the beginning price at 20912 Dollars. Maximum price $20912, minimum price $16336. The average for the month $18932. Bitcoin price forecast at the end of the month $17566, change for August -16.0%.</p><p> BTC to USD predictions  for <strong>September 2021</strong>.<br />In the beginning price at 17566 Dollars. Maximum price $18465, minimum price $16049. The average for the month $17334. Bitcoin price forecast at the end of the month $17257, change for September -1.8%.</p><p> Bitcoin price prediction  for <strong>October 2021</strong>.<br />In the beginning price at 17257 Dollars. Maximum price $21419, minimum price $17257. The average for the month $18988. Bitcoin price forecast at the end of the month $20018, change for October 16.0%.</p><p><a href="https://longforecast.com/bitcoin-cash-price-prediction-2018-2019-2020-and-2021-bch-to-usd">Bitcoin Cash Price Prediction 2021, 2022-2024.</a></p><p><a href="https://longforecast.com/bitcoin-gold-price-prediction-2018-2019-2020-2021-btg-to-usd">Bitcoin Gold Price Prediction 2021, 2022-2024.</a></p><p> BTC to USD predictions  for <strong>November 2021</strong>.<br />In the beginning price at 20018 Dollars. Maximum price $24846, minimum price $20018. The average for the month $22026. Bitcoin price forecast at the end of the month $23221, change for November 16.0%.</p><p> Bitcoin price prediction  for <strong>December 2021</strong>.<br />In the beginning price at 23221 Dollars. Maximum price $27870, minimum price $23221. The average for the month $25090. Bitcoin price forecast at the end of the month $26047, change for December 12.2%.</p><p> BTC to USD predictions  for <strong>January 2022</strong>.<br />In the beginning price at 26047 Dollars. Maximum price $32330, minimum price $26047. The average for the month $28660. Bitcoin price forecast at the end of the month $30215, change for January 16.0%.</p><p> Bitcoin price prediction  for <strong>February 2022</strong>.<br />In the beginning price at 30215 Dollars. Maximum price $37502, minimum price $30215. The average for the month $33245. Bitcoin price forecast at the end of the month $35049, change for February 16.0%.</p><p> BTC to USD predictions  for <strong>March 2022</strong>.<br />In the beginning price at 35049 Dollars. Maximum price $43503, minimum price $35049. The average for the month $38565. Bitcoin price forecast at the end of the month $40657, change for March 16.0%.</p><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle"     style="display:block; text-align:center;"     data-ad-layout="in-article"     data-ad-format="fluid" 
+     data-ad-client="ca-pub-8790319027150706"     data-ad-slot="8041175854"></ins><script>     (adsbygoogle = window.adsbygoogle || []).push({});</script><p> Bitcoin price prediction  for <strong>April 2022</strong>.<br />In the beginning price at 40657 Dollars. Maximum price $40657, minimum price $34607. The average for the month $38283. Bitcoin price forecast at the end of the month $37212, change for April -8.5%.</p><p> BTC to USD predictions  for <strong>May 2022</strong>.<br />In the beginning price at 37212 Dollars. Maximum price $41502, minimum price $36072. The average for the month $38393. Bitcoin price forecast at the end of the month $38787, change for May 4.2%.</p><p> Bitcoin price prediction  for <strong>June 2022</strong>.<br />In the beginning price at 38787 Dollars. Maximum price $48143, minimum price $38787. The average for the month $42678. Bitcoin price forecast at the end of the month $44993, change for June 16.0%.</p><p><script type="text/javascript"> function sh(num) {   obj = document.getElementById("more_"+num);   if( obj.style.display == "none" ) { obj.style.display = "block"; } else { obj.style.display = "none"; } }</script><a href="javascript:sh('2')" style="text-decoration:none; border-bottom: 1px dashed;">Click here to read more</a><div id="more_2" style="display:none"></p><p> BTC to USD predictions  for <strong>July 2022</strong>.<br />In the beginning price at 44993 Dollars. Maximum price $46538, minimum price $40448. The average for the month $43868. Bitcoin price forecast at the end of the month $43493, change for July -3.3%.</p><p> Bitcoin price prediction  for <strong>August 2022</strong>.<br />In the beginning price at 43493 Dollars. Maximum price $50916, minimum price $43493. The average for the month $46372. Bitcoin price forecast at the end of the month $47585, change for August 9.4%.</p><p> BTC to USD predictions  for <strong>September 2022</strong>.<br />In the beginning price at 47585 Dollars. Maximum price $59063, minimum price $47585. The average for the month $52358. Bitcoin price forecast at the end of the month $55199, change for September 16.0%.</p><p> Bitcoin price prediction  for <strong>October 2022</strong>.<br />In the beginning price at 55199 Dollars. Maximum price $55199, minimum price $43121. The average for the month $49972. Bitcoin price forecast at the end of the month $46367, change for October -16.0%.</p><p> BTC to USD predictions  for <strong>November 2022</strong>.<br />In the beginning price at 46367 Dollars. Maximum price $46367, minimum price $39397. The average for the month $43623. Bitcoin price forecast at the end of the month $42362, change for November -8.6%.</p><p> Bitcoin price prediction  for <strong>December 2022</strong>.<br />In the beginning price at 42362 Dollars. Maximum price $52580, minimum price $42362. The average for the month $46611. Bitcoin price forecast at the end of the month $49140, change for December 16.0%.</p><p> BTC to USD predictions  for <strong>January 2023</strong>.<br />In the beginning price at 49140 Dollars. Maximum price $50255, minimum price $43679. The average for the month $47510. Bitcoin price forecast at the end of the month $46967, change for January -4.4%.</p><p> Bitcoin price prediction  for <strong>February 2023</strong>.<br />In the beginning price at 46967 Dollars. Maximum price $46967, minimum price $36690. The average for the month $42519. Bitcoin price forecast at the end of the month $39452, change for February -16.0%.</p><p> BTC to USD predictions  for <strong>March 2023</strong>.<br />In the beginning price at 39452 Dollars. Maximum price $46502, minimum price $39452. The average for the month $42217. Bitcoin price forecast at the end of the month $43460, change for March 10.2%.</p><p> Bitcoin price prediction  for <strong>April 2023</strong>.<br />In the beginning price at 43460 Dollars. Maximum price $43460, minimum price $34917. The average for the month $39846. Bitcoin price forecast at the end of the month $37545, change for April -13.6%.</p><p> BTC to USD predictions  for <strong>May 2023</strong>.<br />In the beginning price at 37545 Dollars. Maximum price $38330, minimum price $33314. The average for the month $36253. Bitcoin price forecast at the end of the month $35822, change for May -4.6%.</p><p> Bitcoin price prediction  for <strong>June 2023</strong>.<br />In the beginning price at 35822 Dollars. Maximum price $35911, minimum price $31213. The average for the month $34127. Bitcoin price forecast at the end of the month $33562, change for June -6.3%.</p></div></p><p></p><p> BTC to USD predictions  for <strong>July 2023</strong>.<br />In the beginning price at 33562 Dollars. Maximum price $41657, minimum price $33562. The average for the month $36928. Bitcoin price forecast at the end of the month $38932, change for July 16.0%.</p><script type="text/javascript"> function sh(num) {   obj = document.getElementById("more_"+num);   if( obj.style.display == "none" ) { obj.style.display = "block"; } else { obj.style.display = "none"; } }</script><a href="javascript:sh('3')" style="text-decoration:none; border-bottom: 1px dashed;">Read more</a><div id="more_3" style="display:none"><p> Bitcoin price prediction  for <strong>August 2023</strong>.<br />In the beginning price at 38932 Dollars. Maximum price $48322, minimum price $38932. The average for the month $42837. Bitcoin price forecast at the end of the month $45161, change for August 16.0%.</p><p> BTC to USD predictions  for <strong>September 2023</strong>.<br />In the beginning price at 45161 Dollars. Maximum price $51934, minimum price $45138. The average for the month $47692. Bitcoin price forecast at the end of the month $48536, change for September 7.5%.</p><p> Bitcoin price prediction  for <strong>October 2023</strong>.<br />In the beginning price at 48536 Dollars. Maximum price $57888, minimum price $48536. The average for the month $52265. Bitcoin price forecast at the end of the month $54101, change for October 11.5%.</p><p> BTC to USD predictions  for <strong>November 2023</strong>.<br />In the beginning price at 54101 Dollars. Maximum price $54101, minimum price $46047. The average for the month $50941. Bitcoin price forecast at the end of the month $49513, change for November -8.5%.</p><p> Bitcoin price prediction  for <strong>December 2023</strong>.<br />In the beginning price at 49513 Dollars. Maximum price $49513, minimum price $43009. The average for the month $47070. Bitcoin price forecast at the end of the month $46246, change for December -6.6%.</p><p> BTC to USD predictions  for <strong>January 2024</strong>.<br />In the beginning price at 46246 Dollars. Maximum price $46246, minimum price $36128. The average for the month $41867. Bitcoin price forecast at the end of the month $38847, change for January -16.0%.</p><p> Bitcoin price prediction  for <strong>February 2024</strong>.<br />In the beginning price at 38847 Dollars. Maximum price $39803, minimum price $34595. The average for the month $37611. Bitcoin price forecast at the end of the month $37199, change for February -4.2%.</p><p> BTC to USD predictions  for <strong>March 2024</strong>.<br />In the beginning price at 37199 Dollars. Maximum price $37518, minimum price $32610. The average for the month $35598. Bitcoin price forecast at the end of the month $35064, change for March -5.7%.</p><p> Bitcoin price prediction  for <strong>April 2024</strong>.<br />In the beginning price at 35064 Dollars. Maximum price $35064, minimum price $29623. The average for the month $32901. Bitcoin price forecast at the end of the month $31853, change for April -9.2%.</p><p> BTC to USD predictions  for <strong>May 2024</strong>.<br />In the beginning price at 31853 Dollars. Maximum price $39535, minimum price $31853. The average for the month $35048. Bitcoin price forecast at the end of the month $36949, change for May 16.0%.</p><p> Bitcoin price prediction  for <strong>June 2024</strong>.<br />In the beginning price at 36949 Dollars. Maximum price $36949, minimum price $29249. The average for the month $33650. Bitcoin price forecast at the end of the month $31451, change for June -14.9%.</p><p> BTC to USD predictions  for <strong>July 2024</strong>.<br />In the beginning price at 31451 Dollars. Maximum price $31451, minimum price $24570. The average for the month $28473. Bitcoin price forecast at the end of the month $26419, change for July -16.0%.</p><p> Bitcoin price prediction  for <strong>August 2024</strong>.<br />In the beginning price at 26419 Dollars. Maximum price $32791, minimum price $26419. The average for the month $29069. Bitcoin price forecast at the end of the month $30646, change for August 16.0%.</p><p> BTC to USD predictions  for <strong>September 2024</strong>.<br />In the beginning price at 30646 Dollars. Maximum price $30646, minimum price $23941. The average for the month $27744. Bitcoin price forecast at the end of the month $25743, change for September -16.0%.</p><p> Bitcoin price prediction  for <strong>October 2024</strong>.<br />In the beginning price at 25743 Dollars. Maximum price $28088, minimum price $24413. The average for the month $26124. Bitcoin price forecast at the end of the month $26250, change for October 2.0%.</p><p> BTC to USD predictions  for <strong>November 2024</strong>.<br />In the beginning price at 26250 Dollars. Maximum price $26250, minimum price $20507. The average for the month $23764. Bitcoin price forecast at the end of the month $22050, change for November -16.0%.</p><p> Bitcoin price prediction  for <strong>December 2024</strong>.<br />In the beginning price at 22050 Dollars. Maximum price $27368, minimum price $22050. The average for the month $24262. Bitcoin price forecast at the end of the month $25578, change for December 16.0%.</p><p> BTC to USD predictions  for <strong>January 2025</strong>.<br />In the beginning price at 25578 Dollars. Maximum price $31747, minimum price $25578. The average for the month $28143. Bitcoin price forecast at the end of the month $29670, change for January 16.0%.</p><p> Bitcoin price prediction  for <strong>February 2025</strong>.<br />In the beginning price at 29670 Dollars. Maximum price $36826, minimum price $29670. The average for the month $32646. Bitcoin price forecast at the end of the month $34417, change for February 16.0%.</p><p> BTC to USD predictions  for <strong>March 2025</strong>.<br />In the beginning price at 34417 Dollars. Maximum price $34417, minimum price $29625. The average for the month $32579. Bitcoin price forecast at the end of the month $31855, change for March -7.4%.</p><p> Bitcoin price prediction  for <strong>April 2025</strong>.<br />In the beginning price at 31855 Dollars. Maximum price $39539, minimum price $31855. The average for the month $35050. Bitcoin price forecast at the end of the month $36952, change for April 16.0%.</p><p> BTC to USD predictions  for <strong>May 2025</strong>.<br />In the beginning price at 36952 Dollars. Maximum price $45864, minimum price $36952. The average for the month $40658. Bitcoin price forecast at the end of the month $42864, change for May 16.0%.</p><p> Bitcoin price prediction  for <strong>June 2025</strong>.<br />In the beginning price at 42864 Dollars. Maximum price $50654, minimum price $42864. The average for the month $45931. Bitcoin price forecast at the end of the month $47340, change for June 10.4%.</p><p> BTC to USD predictions  for <strong>July 2025</strong>.<br />In the beginning price at 47340 Dollars. Maximum price $58758, minimum price $47340. The average for the month $52088. Bitcoin price forecast at the end of the month $54914, change for July 16.0%.</p></div></p><p><a href="http://poundf.co.uk/bitcoin-price-prediction-2018-2019-2020-2021-btc-to-gbp" target=_blank>Bitcoin to GBP Prediction 2021, 2022-2025.</a></p> 
+
+ 
+<p><a href="https://audtoday.com/bitcoin-price-prediction-btc-to-aud" target="_blank">Bitcoin to AUD Prediction 2021, 2022-2025.</a></p></div></p>	</div>
+
+	
+							</div>
+					
+
+<div class="custom"  >
+	<p><p><img src="https://longforecast.com/socbut/share4.png" height="48" width="66" alt="Share"/> <a href="https://twitter.com/intent/tweet?url=https://longforecast.com/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" target="_blank" rel="noopener"><img src="https://longforecast.com/socbut/tw.png" height="48" width="48" alt="Tw" /></a> <a href="https://www.facebook.com/sharer.php?u=https://longforecast.com/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" target="_blank" rel="noopener"><img src="https://longforecast.com/socbut/fb.png" height="48" width="48" alt="Fb"/></a> <a href="whatsapp://send?text=https://longforecast.com/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" target="_blank" rel="noopener"><img src="https://longforecast.com/socbut/wa.png" height="48" width="48" alt="WA"/></a> <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://longforecast.com/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" target="_blank" rel="noopener"><img src="https://longforecast.com/socbut/li.png" height="48" width="48" alt="In"/></a></p><div style="font-size:14px"><p>All forecasts are updated on daily basis. Only <a href="https://longforecast.com/mortgage-interest-rates-forecast-2017-2018-2019-2020-2021-30-year-15-year">mortgage rates forecast</a> and history are updated weekly.</p><p>Bookmarking the page to check for updates later:<br> 
+
+ 
+<b>on PC</b> press buttons Ctrl + D or click the star <img src="/images/star.png" alt="" itemprop="image"/> next to the browser bar at the top.<br> 
+
+ 
+<b>on iPhone/iPad</b> tap the <b>Share icon</b> <img src="/images/ashare.png" alt="" itemprop="image"/> on the bottom bar for iPhones / at the top on iPad. Select <b>Add to Home Screen</b>, then Add. <br> 
+
+ 
+<b>on Android</b> tap the <b>3-dots icon</b> <img src="/images/3.png" alt="" itemprop="image"/> at the top right. Tap <b>Add to homescreen</b>, then Add.</p></div></p></div>
+
+					<!-- End Content -->
+				</main>
+									<div id="aside" class="span3">
+						<!-- Begin Right Sidebar -->
+						<div class="well _menu"><h3 class="page-header">The Latest Forecasts</h3><ul class="nav menu mod-list">
+<li class="item-58 default"><a href="/" >Introduction</a></li><li class="item-100025"><a href="/toefa" >Contact Us</a></li></ul>
+</div><div class="well "><h3 class="page-header">Commodity Prices</h3><ul class="nav menu mod-list">
+<li class="item-53"><a href="/oil-price-today-forecast-2017-2018-2019-2020-2021-brent-wti" >Crude Oil Price</a></li><li class="item-50"><a href="/gold-price-today-forecast-2017-2018-2019-2020-2021-ounce-gram" >Gold Price</a></li><li class="item-89"><a href="/silver-price-today-forecast-2017-2018-2019-2020-2021-ounce-gram" >Silver Price</a></li><li class="item-100090"><a href="/platinum" >PLATINUM</a></li><li class="item-100091"><a href="/palladium" >PALLADIUM</a></li><li class="item-138"><a href="/natural-gas-forecast-2017-2018-2019" >Natural Gas</a></li></ul>
+</div><div class="well "><h3 class="page-header">Cryptocurrencies</h3><ul class="nav menu mod-list">
+<li class="item-166 current active"><a href="/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" >BITCOIN</a></li><li class="item-100044"><a href="/bitcoin-cash-price-prediction-2018-2019-2020-and-2021-bch-to-usd" >Bitcoin Cash</a></li><li class="item-100045"><a href="/bitcoin-gold-price-prediction-2018-2019-2020-2021-btg-to-usd" >BITCOIN GOLD</a></li><li class="item-100092"><a href="/bitcoin-sv" >Bitcoin SV</a></li><li class="item-100098"><a href="/binance-coin" >Binance Coin</a></li><li class="item-100094"><a href="/aave" >AAVE</a></li><li class="item-100111"><a href="/algorand" >ALGORAND</a></li><li class="item-100125"><a href="/avalanche" >AVALANCHE</a></li><li class="item-100129"><a href="/bittorrent" >BITTORRENT</a></li><li class="item-100047"><a href="/cardano-price-prediction-2018-2019-2020-2021-ada-to-usd" >CARDANO (ADA)</a></li><li class="item-100109"><a href="/celsius-network" >CELSIUS NETWORK</a></li><li class="item-100093"><a href="/chainlink" >CHAINLINK</a></li><li class="item-100130"><a href="/chiliz" >Chiliz</a></li><li class="item-100103"><a href="/compound" >COMPOUND</a></li><li class="item-100106"><a href="/cosmos" >COSMOS</a></li><li class="item-100035"><a href="/ethereum-price-prediction-2018-2019-2020-2021-eth-to-usd" >Ethereum</a></li><li class="item-100042"><a href="/ethereum-classic-price-prediction-2018-2019-2020-2021-etc-to-usd" >Ethereum Classic</a></li><li class="item-100037"><a href="/dash-price-prediction-2017-2018-2019-2020-2021-digital-cash" >DIGITAL CASH (DASH)</a></li><li class="item-100101"><a href="/dogecoin" >DOGECOIN</a></li><li class="item-100100"><a href="/eos" >EOS</a></li><li class="item-100110"><a href="/filecoin" >FILECOIN</a></li><li class="item-100124"><a href="/ftx-token" >FTX TOKEN</a></li><li class="item-100131"><a href="/icp" >Internet Computer</a></li><li class="item-100046"><a href="/iota-price-prediction-2018-2019-2020-2021-iot-to-usd" >IOTA (MIOTA)</a></li><li class="item-100036"><a href="/litecoin-price-prediction-for-2018-2019-2020-2021-ltc-to-usd" >Litecoin</a></li><li class="item-100040"><a href="/monero-price-prediction-2018-2019-2020-2021-xmr-to-usd" >Monero</a></li><li class="item-100043"><a href="/nem-price-prediction-2018-2019-2020-2021-xem-to-usd" >NEM</a></li><li class="item-100041"><a href="/neo-price-prediction-2018-2019-2020-2021-neo-to-usd" >NEO</a></li><li class="item-100113"><a href="/okex" >OKEX</a></li><li class="item-100133"><a href="/ontology" >ONTOLOGY</a></li><li class="item-100128"><a href="/pancakeswap" >PancakeSwap</a></li><li class="item-100096"><a href="/polkadot" >POLKADOT</a></li><li class="item-100123"><a href="/polygon" >POLYGON</a></li><li class="item-100039"><a href="/ripple-price-prediction-2018-2019-2020-2021-xrp-to-usd" >Ripple (XRP)</a></li><li class="item-100048"><a href="/stellar-price-prediction-2018-2019-2020-2021-xlm-to-usd" >STELLAR</a></li><li class="item-100107"><a href="/solana" >SOLANA</a></li><li class="item-100112"><a href="/sushi" >SUSHI</a></li><li class="item-100105"><a href="/synthetix" >SYNTHETIX</a></li><li class="item-100132"><a href="/telcoin" >Telcoin</a></li><li class="item-100102"><a href="/terra" >TERRA</a></li><li class="item-100099"><a href="/tezos" >TEZOS</a></li><li class="item-100126"><a href="/the-graph" >THE GRAPH</a></li><li class="item-100127"><a href="/theta" >THETA</a></li><li class="item-100095"><a href="/tron" >TRON</a></li><li class="item-100097"><a href="/uniswap" >Uniswap</a></li><li class="item-100108"><a href="/vechain" >VECHAIN</a></li><li class="item-100104"><a href="/yearn" >YEARN.FINANCE</a></li><li class="item-100038"><a href="/zcash-price-prediction-2017-2018-2019-2020-2021-zec-to-usd" >ZCash</a></li><li class="item-100072"><a href="/libra" >DIEM (LIBRA)</a></li></ul>
+</div><div class="well "><h3 class="page-header">Search</h3><div class="search">
+	<form action="/bitcoin-price-predictions-2017-2018-2019-btc-to-usd" method="post" class="form-inline" role="search">
+		<label for="mod-search-searchword102" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword102" maxlength="200"  class="inputbox search-query input-medium" type="search" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="166" />
+	</form>
+</div>
+</div><div class="well "><h3 class="page-header">Exchange Rates</h3><ul class="nav menu mod-list">
+<li class="item-70"><a href="/euro-to-dollar-eur-usd-forecast-2017-2018-2019-2020" >EURO TO DOLLAR</a></li><li class="item-84"><a href="/australian-dollar-aud-to-usd-forecast-2017-2018-2019-2020-2021" >AUSTRALIAN DOLLAR</a></li><li class="item-80"><a href="/pound-to-dollar-gbp-usd-forecast-for-2017-2018-2019-2020-and-2021" >BRITISH POUND</a></li><li class="item-63"><a href="/brazilian-real-forecast-2017-2018-2019-2020-2021-usd-brl" >BRAZILIAN REAL</a></li><li class="item-82"><a href="/canadian-dollar-forecast-2017-2018-2019-2020-2021-usd-cad" >Canadian Dollar</a></li><li class="item-87"><a href="/chinese-yuan-forecast-2017-2018-2019-2020-2021-usd-to-rmb-and-rmb-to-usd" >Chinese Yuan</a></li><li class="item-83"><a href="/usd-to-inr-forecast-2017-2018-2019-2020-2021-indian-rupee" >Indian Rupee</a></li><li class="item-100060"><a href="/usd-to-idr-forecast-today" > Indonesian Rupiah</a></li><li class="item-118"><a href="/usd-jpy-forecast-2017-2018-2019-2020-2021-dollar-yen" >Japanese Yen</a></li><li class="item-100057"><a href="/usd-to-myr-forecast" >Malaysian ringgit</a></li><li class="item-107"><a href="/dollar-to-peso-forecast-2017-2018-2019-2020-2021-usd-mxn" >Mexican Peso</a></li><li class="item-130"><a href="/nzd-to-usd-forecast-2017-2018-2019-2020-2021-new-zealand-dollar" >New Zealand Dollar</a></li><li class="item-100062"><a href="/usd-to-pkr-forecast" >Pakistani Rupee</a></li><li class="item-100058"><a href="/usd-to-php-today-forecast" >Philippine Peso</a></li><li class="item-100063"><a href="/usd-to-pln-forecast" >POLISH ZLOTY</a></li><li class="item-161"><a href="/ruble-forecast-2017-2018-2019-2020-2021-usd-to-rub" >Russian Ruble</a></li><li class="item-129"><a href="/singapore-dollar-forecast-2017-2018-2019-2020-2021-usd-to-sgd" >Singapore Dollar</a></li><li class="item-133"><a href="/dollar-to-won-usd-to-krw-forecast-2017-2018-2019-2020-2021" >South Korean Won</a></li><li class="item-131"><a href="/dollar-to-rand-forecast-2017-2018-2019-2020-2021-usd-to-zar" >South African Rand</a></li><li class="item-100116"><a href="/usd-to-sek" >Swedish krona</a></li><li class="item-100050"><a href="/usd-chf-forecast-2017-2018-2019-2020-2021-dollar-to-swiss-franc" >SWISS FRANC</a></li><li class="item-100059"><a href="/usd-to-bht-today-forecast" >THAI BAHT</a></li><li class="item-100061"><a href="/usd-to-try-forecast-today" >TURKISH LIRA</a></li><li class="item-164"><a href="/lf-currency-converter" >CONVERTER</a></li><li class="item-100088"><a href="/dollar-index" >Dollar Index (DXY)</a></li></ul>
+</div><div class="well "><h3 class="page-header">Exchange Cross-Rates</h3><ul class="nav menu mod-list">
+<li class="item-100069"><a href="/aud-to-inr-forecast-2017-2018-2019-2020-2021-australian-dollar-to-indian-rupee" >AUD - INR</a></li><li class="item-119"><a href="/aud-to-jpy-forecast-2017-2018-2019-2020-2021-australian-dollar-to-japanese-yen" >AUD - JPY</a></li><li class="item-139"><a href="/aud-to-euro-forecast-2017-20-2018-2019-2020-2021-euro-to-aud" >AUD - EUR</a></li><li class="item-159"><a href="/cad-to-inr-forecast-2017-2018-2019-2020-2021-canadian-dollar-to-rupee" >CAD - INR</a></li><li class="item-136"><a href="/gbp-to-aud-forecast-2017-2018-2019-2020-2021-aud-to-gbp-predictions" >GBP - AUD</a></li><li class="item-125"><a href="/pound-to-euro-forecast-2017-2018-2019-2020-2021-gbp-to-eur-and-eur-to-gbp" >GBP - EUR</a></li><li class="item-135"><a href="/gbp-to-inr-forecast-2017-2018-2019-2020-2021-pound-to-rupee" >GBP - INR</a></li><li class="item-143"><a href="/euro-to-cad-forecast-2017-2018-2019-2020-2021-euro-to-canadian-dollar" >EUR - CAD</a></li><li class="item-127"><a href="/eur-chf-forecast-2017-2018-2019-2020-2021-euro-to-swiss-franc" >EUR - CHF</a></li><li class="item-100029"><a href="/euro-to-inr-forecast-2017-2018-2019-2020-2021-eur-to-indian-rupee" >EUR - INR</a></li><li class="item-142"><a href="/eur-jpy-forecast-2017-2018-2019-2020-2021-euro-to-yen" >EUR - JPY</a></li><li class="item-100064"><a href="/eur-nzd-forecast" >EUR - NZD</a></li><li class="item-100117"><a href="/eur-to-php" >EUR - PHP</a></li><li class="item-100049"><a href="https://longforecast.com#1" >Need more pairs?</a></li></ul>
+</div><div class="well "><h3 class="page-header">Interest Rates</h3><ul class="nav menu mod-list">
+<li class="item-79"><a href="/mortgage-interest-rates-forecast-2017-2018-2019-2020-2021-30-year-15-year" >Mortgage Rates</a></li><li class="item-160"><a href="/mortgage-rates-history-30-year-15-year" >Mortgage Rates History</a></li><li class="item-72"><a href="/libor-forecast-2017-2018-2019" >LIBOR RATE</a></li><li class="item-73"><a href="/euribor-forecast-2017-2018-2019" >EURIBOR RATE</a></li></ul>
+</div><div class="well "><h3 class="page-header">Stock Indices</h3><ul class="nav menu mod-list">
+<li class="item-52"><a href="/sp-500-index-forecast-2017-2018-2019" >S&amp;P 500 Index</a></li><li class="item-151"><a href="/dow-jones-predictions-2017-2018-2019" >Dow Jones Index</a></li><li class="item-152"><a href="/nasdaq-predictions-2017-2018-2019" >Nasdaq Index</a></li><li class="item-100068"><a href="/dax-predictions-2017-2018-2019" >DAX Index</a></li><li class="item-99"><a href="/ftse-100-forecast-2017-2018-2019" >FTSE 100 INDEX</a></li><li class="item-100053"><a href="/asx-200-forecast" >ASX 200 INDEX</a></li><li class="item-100055"><a href="/hang-seng-index-forecast" >HANG SENG INDEX</a></li><li class="item-100056"><a href="/kospi-index-forecast" >KOSPI INDEX</a></li><li class="item-100052"><a href="/nikkei-index-forecast" >NIKKEI 225 INDEX</a></li><li class="item-100051"><a href="/shanghai-index-forecast" >Shanghai Index</a></li><li class="item-100054"><a href="/taiwan-index-forecast" >TAIWAN INDEX</a></li><li class="item-100114"><a href="/tsx" >TSX</a></li><li class="item-100115"><a href="/bovespa" >BOVESPA</a></li></ul>
+</div><div class="well "><h3 class="page-header">Stock Prices</h3><ul class="nav menu mod-list">
+<li class="item-100"><a href="/apple-stock-price-forecast-2017-2018-2019" >Apple</a></li><li class="item-150"><a href="/amazon-share-price-predictions-2017-2018-2019" >Amazon</a></li><li class="item-100028"><a href="/facebook-share-price-predictions-2017-2018-2019" >Facebook</a></li><li class="item-146"><a href="/alphabet-google-stock-price-forecast-2017-2018-2019" >Google</a></li><li class="item-100089"><a href="/microsoft-share-price-prediction-2017-2018-2019" >Microsoft</a></li><li class="item-100086"><a href="/netflix" >Netflix</a></li><li class="item-100075"><a href="/alibaba" >ALIBABA</a></li><li class="item-100074"><a href="/amd" >AMD</a></li><li class="item-100083"><a href="/abio" >ARCA Biopharma</a></li><li class="item-100084"><a href="/boeing" >Boeing</a></li><li class="item-100076"><a href="/disney" >Disney</a></li><li class="item-100085"><a href="/exxon-mobil" >Exxon Mobil</a></li><li class="item-100073"><a href="/ge" >General Electric</a></li><li class="item-147"><a href="/ibm-stock-price-forecast-2017-2018-2019" >IBM</a></li><li class="item-100087"><a href="/idxx" >IDEXX Laboratories</a></li><li class="item-100082"><a href="/ntla" >Intellia Therapeutics</a></li><li class="item-100081"><a href="/moderna" >Moderna</a></li><li class="item-100078"><a href="/nio" >NIO STOCK</a></li><li class="item-100077"><a href="/nvidia" >NVIDIA</a></li><li class="item-100079"><a href="/srne" >Sorrento Therapeutics</a></li><li class="item-145"><a href="/tesla-share-price-predictions-2017-2018-2019" >Tesla</a></li><li class="item-100080"><a href="/workhorse" >Workhorse</a></li><li class="item-100118"><a href="/sundial-growers" >Sundial Growers</a></li><li class="item-100119"><a href="/palantir" >Palantir</a></li><li class="item-100120"><a href="/nikola" >Nikola</a></li><li class="item-100121"><a href="/inovio" >Inovio</a></li></ul>
+</div>
+						<!-- End Right Sidebar -->
+					</div>
+							</div>
+		</div>
+	</div>
+  
+                  
+	<!-- Footer -->
+	<footer class="footer" role="contentinfo">
+		<div class="container-fluid">
+			<hr />
+			
+			<p class="pull-right">
+				<a href="#top" id="back-top">
+					Back to Top				</a>
+			</p>
+               <p><a href="https://longforecast.com">About Us</a></p>
+               <p><a href="https://longforecast.com/toefa">Contact Us</a> - <a href="https://longforecast.com/privacy">Privacy Policy</a> - <a href="https://longforecast.com/terms-of-use">Terms of Use</a></p>
+		       <p>&copy; 2010-2021, The Economy Forecast Agency. We publish long term forecasts for euro rate, other currencies, crude oil and gold prices, LIBOR and EURIBOR, etc. The Agency shall not be liable for any errors or delays in the information and its publication, or for any actions taken in reliance thereon. Read more in Terms of Use.</p>
+               <p><a href="https://www.facebook.com/LongForecast" target="_blank" rel="noopener"><img src="https://longforecast.com/images/fb-follow.png" height="30" width="112" alt="FB"/></a></p>
+        </div>
+	</footer>
+	
+
+  </body>
+</html>
