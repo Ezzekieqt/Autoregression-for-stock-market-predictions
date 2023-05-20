@@ -1,21 +1,19 @@
-poznámky k spusteniu programu:
+Notes for running the program:
 
-1.program je napísaný v jazyku php, potrebuje server, na ktorom bude bežať
+The program is written in PHP and requires a server to run on.
 
-2. odporúčame nainštalovať XAMPP pre spustenie na lokálnom servery (https://www.apachefriends.org/index.html)
+We recommend installing XAMPP for local server deployment (https://www.apachefriends.org/index.html).
 
-3. po nainštalovaní je potrebné celý súbor analyza_webov presunúť do htdocs v priečinku xampp
+After installation, it is necessary to move the entire file "analyza_webov" to the "htdocs" folder within the XAMPP directory.
 
-4. po spustení databázy localhost/phpmyadmin je potrebné si vytvoriť databázu s názvom 
-"analyza_webov" a username "root" a heslom "". Alternatívna možnosť je prejsť všetky súbory s koncovkou .php v priečinku analyza_webov a vyhľadať v nich časť komentáru "PRIPOJENIE K DATABAZE" a zmeniť údaje pre svoj vlastný login do databázy.
+After starting the database at localhost/phpmyadmin, create a database named "analyza_webov" with the username "root" and an empty password. Alternatively, you can go through all the files with the .php extension in the "analyza_webov" folder and search for the "PRIPOJENIE K DATABAZE" comment section to modify the credentials for your own database login.
 
-5. databaza.sql súbor k databáze sa nachádza v priečinku analyza_webov, môžete si ho importovať do vlastnej databázy pre odpozorované dáta počas semestra
+The "databaza.sql" file for the database is located in the "analyza_webov" folder. You can import it into your own database to have the observed data for the semester.
 
-6. pre webscrap dát, analýzu a výpočet koeficientov: priečinok analyza_webov obsahuje niekoľko skriptov, ktoré je potrebné spustiť po sebe v následnosti: web_scrap.php, data_filter_30rates.php, data_filter_govcapital.php, data_filter_longforecast.php, data_filter_walletinvestor.php, store_historical_data.php, coef_calculation,php, predic_calculation.php
+For web scraping data, analysis, and coefficient calculation: The "analyza_webov" folder contains several scripts that need to be executed sequentially: web_scrap.php, data_filter_30rates.php, data_filter_govcapital.php, data_filter_longforecast.php, data_filter_walletinvestor.php, store_historical_data.php, coef_calculation.php, predic_calculation.php.
 
-7. po zbehnutí každého skriptu môžeme otvoriť index.php a uvidíme stránku s predpoveďami pre nasledujúci týždeň
+After running each script, you can open "index.php" and view the page with predictions for the following week.
 
-8. UPOZORNENIE: program nebude fungovať ak neboli 5 týždňov po sebe spustené skripty z bodu 6. pre každý týždeň. Je potrebné, aby v databáze boli totiž uložené dáta pre posledných 5 týždňov pre každé burzové aktívum, program inak nemá z čoho robiť výpočty. Ak nastane táto situácia na stránke namiesto predpovedí je vypísaná chyba "Chýbajú dáta z minulého týždňa".
+WARNING: The program will not work if the scripts from step 6 have not been executed consecutively for each week over a period of 5 weeks. It is necessary for the database to have data for the last 5 weeks for each stock activity; otherwise, the program cannot perform calculations. If this situation occurs, an error message "Chýbajú dáta z minulého týždňa" (Missing data from the previous week) will be displayed instead of predictions.
 
-9. Dáta je potrebné mať zaznamenané z posledných 5 týždňov z dôvodu, že programrobí výpočty pre každý nasledujúci týždeň z výpočtu koeficientov z posledných 5 týždňov. Nevieme sa k týmto dátam historicky vrátiť, pretože stránky svoje údaje, z ktorých scrapujeme, mažú. je tomu tak pravdepodobne z dôvodov nepokazenia si reputácie
-
+It is important to have data recorded from the past 5 weeks because the program calculates predictions for each upcoming week based on coefficient calculations from the last 5 weeks. We cannot retrieve historical data since the websites we scrape data from regularly delete their information, likely to protect their reputation.
