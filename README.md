@@ -3,10 +3,10 @@
 
 The structure of the electronic media is organized as follows:
 
-1. **main** - This folder contains .txt files that include filtered web scrapy pages.
-2. **main** - It includes .php files, which are scripts for running the program.
-3. **main** - **Rstudio_docs** - It contains images for testing statistics for stock assets.
-4. **main** - **bootstrap** - It includes items for the design and appearance of the webpage.
+1. **analyza-webov** - This folder contains .txt files that include filtered web scrapy pages.
+2. **analyza-webov** - It includes .php files, which are scripts for running the program.
+3. **analyza-webov** - **Rstudio_docs** - It contains images for testing statistics for stock assets.
+4. **analyza-webov** - **bootstrap** - It includes items for the design and appearance of the webpage.
 
 ## Instructions
 
